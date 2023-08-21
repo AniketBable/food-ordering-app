@@ -1,0 +1,31 @@
+.login-container{
+    width: 450px;
+    height: 300px;
+}
+
+.form-header{
+    text-align: center;
+    color: whitesmoke;
+    border: 0;
+    border-bottom: 1px solid white;
+    padding: 10px;
+    letter-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-container {
+    color: whitesmoke;
+    width: 450px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-control {
+    width: 350px;
+    font-size: 1em;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

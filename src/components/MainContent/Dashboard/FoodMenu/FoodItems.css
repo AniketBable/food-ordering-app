@@ -1,0 +1,6 @@
+.foodItems-wrapper{
+    width: 100%;
+    height: 90vh;
+    padding: 30px;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5));
+}

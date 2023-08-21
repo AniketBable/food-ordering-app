@@ -1,0 +1,28 @@
+.form-controls input {
+    width: 350px;
+    height: 40px;
+    font-size: 1em;
+    margin: 10px;
+    padding: 10px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    text-align: center;
+    float: left;
+}
+.add-foodItem-btn {
+    display: block;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size:1em;
+    text-align: center;
+    padding: 15px 35px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    width: 90%;
+    margin: 10px;
+    
+}

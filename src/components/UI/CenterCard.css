@@ -1,0 +1,12 @@
+.center-card {
+    height: inherit;
+    width: inherit;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    box-shadow: rgba(255, 255, 255, 0.7) 0px 7px 15px;
+}

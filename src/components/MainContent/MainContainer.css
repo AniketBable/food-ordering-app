@@ -1,0 +1,8 @@
+.main-container {
+ height: 90vh;
+ width: 100%;
+ position: relative;
+ background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),url('../../images/login-dashboard.jpg') ;
+ z-index: 10;
+ background-size: cover;
+}
